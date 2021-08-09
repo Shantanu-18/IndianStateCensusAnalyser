@@ -32,6 +32,4 @@ namespace IndianStateCensusAnalyser
             return dataMap.ToDictionary(p => p.Key, p => p.Value);
         }
     }
-
-
 }
