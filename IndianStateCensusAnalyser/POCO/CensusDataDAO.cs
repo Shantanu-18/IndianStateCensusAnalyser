@@ -18,9 +18,5 @@ namespace IndianStateCensusAnalyser.POCO
             this.area = Convert.ToUInt32(area);
             this.density = Convert.ToUInt32(density);
         }
-
-
     }
-
-
 }
