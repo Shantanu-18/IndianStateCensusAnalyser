@@ -37,19 +37,5 @@ namespace IndianStateCensusAnalyser.DTO
             this.area = censusDataDao.area;
             this.density = censusDataDao.density;
         }
-
-        //public CensusDTO(USCensusDAO usCensusDao)
-        //{
-        //    this.stateCode = usCensusDao.stateId;
-        //    this.stateName = usCensusDao.stateName;
-        //    this.population = usCensusDao.population;
-        //    this.housingUnits = usCensusDao.housingUnits;
-        //    this.totalArea = usCensusDao.totalArea;
-        //    this.waterArea = usCensusDao.waterArea;
-        //    this.landArea = usCensusDao.landArea;
-        //}
-
     }
-
-
 }
