@@ -26,6 +26,4 @@ namespace IndianStateCensusAnalyser
             return censusData;
         }
     }
-
-
 }
