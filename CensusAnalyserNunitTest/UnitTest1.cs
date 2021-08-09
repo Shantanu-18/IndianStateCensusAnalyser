@@ -129,7 +129,5 @@ namespace CensusAnalyserNunitTest
             Assert.AreEqual(CensusAnalyserException.ExceptionType.INCORRECT_HEADER, stateException.eType);
             #endregion TC 2.5
         }
-
-
     }
 }
